@@ -1,0 +1,29 @@
+{
+  "name": "binary-xml",
+  "version": "0.0.0",
+  "description": "Read and Parse Binary XML in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": {
+    "name": "Lsong",
+    "email": "song940@gmail.com",
+    "url": "https://lsong.org"
+  },
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/binary-xml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/binary-xml/issues"
+  },
+  "homepage": "https://github.com/song940/binary-xml#readme"
+}
