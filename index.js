@@ -1,5 +1,8 @@
 'use strict'
 const assert = require('assert');
+const { debuglog } = require('util');
+
+const debug = debuglog('binary-xml');
 
 const NodeType = {
   ELEMENT_NODE: 1,
